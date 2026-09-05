@@ -7,10 +7,10 @@
 from textual.app import App
 from textual.widgets import Input, Button, RichLog, Header, Footer, Button
 from textual.containers import VerticalGroup, HorizontalGroup
-import Lzicicore
+import tecfocore
 import sys
 侧边栏开启 = False
-core = Lzicicore.core()
+core = tecfocore.core()
 if(core.gety() == True):
     引导 = True
 else:
