@@ -37,7 +37,7 @@ class core:
     def askn(self,问题):
         种子 = str(int.from_bytes(os.urandom(4), "big") % 1000000 + 1)
         结果 = subprocess.run(
-            ["./LziciCLI.py", 问题, 温度,重复惩罚,种子,最大生成长度,上下文长度,top_k,top_p,停止词,存活时间,模型名,"False"],
+            ["./tecfoCLI.py", 问题, 温度,重复惩罚,种子,最大生成长度,上下文长度,top_k,top_p,停止词,存活时间,模型名,"False"],
             capture_output=True,
             text=True
         )
