@@ -1,4 +1,4 @@
-#Lzici
+#tecfo
 
 只在Linux上做过测试，如果您使用Windows或者MacOS，请不要给我提issue，不予受理  
 “/”或许在Windows上不起作用，可能需要“\”
