@@ -13,7 +13,10 @@
   ……
 
 #开始  
-下载仓库，确保LziciCUI.py;Lzicicore.py和LziciCLI.py在同一目录  
-在带textual的python环境下,LziciCUI.py同目录执行./LziciCUI.py  
+下载仓库，确保tecfoCUI.py;tecfocore.py和tecfoCLI.py在同一目录  
+在带textual的python环境下,tecfoCUI.py同目录执行./tecfoCUI.py  
 使用ctrl+e关闭，前往~/.config/Lzici/设置.json补上“模型名”字段，内容填你的模型名  
-再次执行./LziciCUI.py
+再次执行./tecfoCUI.py
+
+
+近期正在更名，还没更完
